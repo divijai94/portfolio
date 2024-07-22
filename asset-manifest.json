@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3e5ebba.css",
+    "main.js": "/static/js/main.7f14268b.js",
+    "static/media/about.png": "/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/ecommerce-websites.jpg": "/static/media/ecommerce-websites.3b31b5891860881d2b01.jpg",
+    "static/media/Digital-clock.jpg": "/static/media/Digital-clock.5f12c6d34cff18c68cd8.jpg",
+    "index.html": "/index.html",
+    "main.b3e5ebba.css.map": "/static/css/main.b3e5ebba.css.map",
+    "main.7f14268b.js.map": "/static/js/main.7f14268b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3e5ebba.css",
+    "static/js/main.7f14268b.js"
+  ]
+}
